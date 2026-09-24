@@ -4,6 +4,6 @@ a) O valor é alterado normalmente
 
 b) O JavaScript converte automaticamente para let 
 
-c) Ocorre um erro (TypeError) 
+c) Ocorre um erro (TypeError) (correta)
 
 d) O valor antigo é mantido silenciosamente 

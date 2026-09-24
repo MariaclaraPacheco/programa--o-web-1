@@ -2,7 +2,7 @@
 
 a) undefined 
 
-b) null 
+b) null (correta)
 
 c) NaN 
 

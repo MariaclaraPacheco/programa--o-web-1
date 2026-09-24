@@ -8,6 +8,6 @@ a) "string"
 
 b) "int" 
 
-c) "number" 
+c) "number" (correta)
 
 d) "undefined" 

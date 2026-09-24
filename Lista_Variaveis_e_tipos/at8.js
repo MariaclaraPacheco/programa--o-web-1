@@ -2,7 +2,7 @@
 
 a) Usar var sempre que possível 
 
-b) Preferir const e let em vez de var 
+b) Preferir const e let em vez de var (correta)
 
 c) Misturar var, let e const livremente 
 

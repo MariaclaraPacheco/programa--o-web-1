@@ -4,6 +4,6 @@ a) null
 
 b) 0 
 
-c) undefined 
+c) undefined (correta)
 
 d) "" 

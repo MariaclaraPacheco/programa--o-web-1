@@ -4,6 +4,6 @@ a) "Olá, " + nome
 
 b) 'Olá, ' + nome + '!' 
 
-c) `Olá, ${nome}!` 
+c) `Olá, ${nome}!` (correta)
 
 d) String("Olá, " + nome) 

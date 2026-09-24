@@ -9,7 +9,9 @@ console.log(a === b);
 
 console.log(a == b); 
 
-Resposta: ____________________________________________ 
+Resposta: 17
+false
+true____________________________________________ 
 
 18. O que será exibido no console? 
 
@@ -19,4 +21,5 @@ const idade = 30;
 
 console.log(`${nome} tem ${idade} anos.`); 
 
-Resposta: ____________________________________________ 
+Resposta: 18
+Maria tem 30 anos.____________________________________________ 
